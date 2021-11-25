@@ -1,5 +1,7 @@
 id: P006946
 initial_creation_type: ocr
+created_at: 28/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W30441
   title: དབུ་མའི་ཟབ་གནད་སྙིང་པོར་དྲིལ་བའི་ལེགས་བཤད
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 178
       base_file: v001.txt
-ebook_metadata:
-  title: དབུ་མའི་ཟབ་གནད་སྙིང་པོར་དྲིལ་བའི་ལེགས་བཤད
-  author: ''
-  sku: P006946
-  cover: cover.jpg
-  layers:
-  - pagination
